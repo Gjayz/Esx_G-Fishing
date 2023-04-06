@@ -11,7 +11,7 @@
 - [PolyZone](https://github.com/mkafrin/PolyZone) ---- In Fish Zone
 
 ## Preview's
-- [ShowCase Video](https://streamable.com/if6rv8)
+- [ShowCase Video](https://youtu.be/2P6TQIs08gU)
 
 ## ox inventory/data/item.lua
     ----- Fishing
